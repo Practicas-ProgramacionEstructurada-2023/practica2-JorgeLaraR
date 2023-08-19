@@ -1,0 +1,14 @@
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\bin\Debug\net7.0\practica2-JorgeLaraR.exe
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\bin\Debug\net7.0\practica2-JorgeLaraR.deps.json
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\bin\Debug\net7.0\practica2-JorgeLaraR.runtimeconfig.json
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\bin\Debug\net7.0\practica2-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\bin\Debug\net7.0\practica2-JorgeLaraR.pdb
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\practica2-JorgeLaraR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\practica2-JorgeLaraR.AssemblyInfoInputs.cache
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\practica2-JorgeLaraR.AssemblyInfo.cs
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\practica2-JorgeLaraR.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\practica2-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\refint\practica2-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\practica2-JorgeLaraR.pdb
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\practica2-JorgeLaraR.genruntimeconfig.cache
+C:\Users\Walter\Desktop\Practica #2 - U20230258 - PDC\practica2-JorgeLaraR\obj\Debug\net7.0\ref\practica2-JorgeLaraR.dll
